@@ -1,1 +1,2 @@
 Hello World, Testing git function.
+Self learning is fun.
